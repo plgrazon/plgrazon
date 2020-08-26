@@ -31,10 +31,6 @@ I'm Paolo Luis, A software engineer from 🇵🇭 Manila, Philippines, currently
 
 <p>&nbsp;</p>
 
-</div>
-
-<div style="text-align:center">
-
 🏢 Currently working at **Howl, Inc**
 
 👨🏻‍💻 Software Engineer
