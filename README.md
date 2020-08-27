@@ -16,18 +16,30 @@ Here are some ideas to get you started:
 
 ### Hi there 👋, nice to meet you.
 
-I'm Paolo Luis, A software engineer from 🇵🇭 Manila, Philippines, currently living in 🇺🇸 New York, USA
+I'm Paolo Luis, a software engineer from 🇵🇭 Manila, Philippines, currently living in 🇺🇸 New York, USA
 
 <p>&nbsp;</p>
 
-[![Visits Badge](https://badges.pufler.dev/visits/plgrazon/plgrazon)](https://badges.pufler.dev) [![Years Badge](https://badges.pufler.dev/years/plgrazon)](https://badges.pufler.dev) [![Repos Badge](https://badges.pufler.dev/repos/puf17640)](https://badges.pufler.dev)
-
-<a href="https://www.paolorazon.io">
-  <img src="https://img.shields.io/badge/website-paolorazon.io%20-yellow">
-</a>
-<a>
-  <img src="https://img.shields.io/badge/linkedin-paolo--razon%20-blue">
-</a>
+<div>
+  <a href="https://github.com/plgrazon">
+    <img src="https://badges.pufler.dev/visits/plgrazon/plgrazon">
+  </a>
+  <a href="https://github.com/plgrazon">
+    <img src="https://badges.pufler.dev/years/plgrazon">
+  </a>
+  <a href="https://github.com/plgrazon">
+    <img src="https://badges.pufler.dev/repos/puf17640">
+  </a>
+</div>
+</br>
+<div> 
+  <a href="https://www.paolorazon.io">
+    <img src="https://img.shields.io/badge/website-paolorazon.io%20-yellow">
+  </a>
+  <a href="https://www.linkedin.com/in/paolo-razon/">
+    <img src="https://img.shields.io/badge/linkedin-paolo--razon%20-blue">
+  </a>
+</div>
 
 <p>&nbsp;</p>
 
