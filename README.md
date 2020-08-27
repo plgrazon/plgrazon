@@ -33,6 +33,9 @@ I'm Paolo Luis, a software engineer from 🇵🇭 Manila, Philippines, currently
 </div>
 </br>
 <div> 
+  <a href="mailto:plgrazon@gmail.com">
+    <img src="https://img.shields.io/badge/email-plgrazon%40gmail.com-9cf">
+  </a>
   <a href="https://www.paolorazon.io">
     <img src="https://img.shields.io/badge/website-paolorazon.io%20-yellow">
   </a>
