@@ -46,12 +46,18 @@ I'm Paolo Luis, a software engineer from 🇵🇭 Manila, Philippines, currently
 
 <p>&nbsp;</p>
 
-🏢 Currently working at **Howl, Inc**
+🏢 Currently working at **Bilt Rewards**
 
 👨🏻‍💻 Software Engineer
 
 👾 Gamer
 
 📷 Photography enthusiast
+
+⌚︎ Watch enthusiast
+
+🏃🏼 Runner
+
+🚴🏻 Cyclist
 
 </div>
