@@ -22,13 +22,13 @@ I'm Paolo Luis, a software engineer from 🇵🇭 Manila, Philippines, currently
 
 <div>
   <a href="https://github.com/plgrazon">
-    <img src="https://badges.pufler.dev/visits/plgrazon/plgrazon">
+    <img src="https://komarev.com/ghpvc/?username=plgrazon&color=brightgreen">
   </a>
   <a href="https://github.com/plgrazon">
-    <img src="https://badges.pufler.dev/years/plgrazon">
+    <img src="https://img.shields.io/badge/since-2020-blue">
   </a>
   <a href="https://github.com/plgrazon">
-    <img src="https://badges.pufler.dev/repos/puf17640">
+    <img src="https://img.shields.io/badge/dynamic/json?color=blue&label=repos&query=public_repos&url=https://api.github.com/users/plgrazon">
   </a>
 </div>
 </br>
